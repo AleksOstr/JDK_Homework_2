@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Developer {
+public abstract class Developer {
+    void study() {};
+    void work() {};
 }

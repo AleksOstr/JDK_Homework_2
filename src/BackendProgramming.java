@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface BackendProgramming {
+public interface BackendProgramming {
+    void developAPI();
 }

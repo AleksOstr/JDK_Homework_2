@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface FrontendProgramming {
+public interface FrontendProgramming {
+    void developGUI();
 }
